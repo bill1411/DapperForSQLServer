@@ -1,0 +1,8 @@
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\bin\Debug\Dapper.dll
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\bin\Debug\Dapper.xml
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Documents\MyPractice\CheLiXiangPractice\DapperPractice\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
