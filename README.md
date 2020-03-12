@@ -1,2 +1,3 @@
 # DapperForSQLServer
 Dapper操作SqlServer数据库Demo
+VS版本2017
